@@ -20,5 +20,5 @@ This project is about combining various ideas and skills we’ve been practicing
    * Creating interactivity through button clicks and Java code.
    * Commenting and documenting your code.
 
-  ![Screenshot](screenshot1.jpeg)![Screenshot](screenshpt2.jpeg)
+  ![Screenshot](screenshots.png)
   
