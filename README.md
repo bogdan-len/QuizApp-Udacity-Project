@@ -1,4 +1,4 @@
-## Udacity Lesson 3 Project 2 - Geography Quiz App
+## Udacity Lesson 3 Project 2 - Cities and Countries Quiz App
 
 ### Project Overview
 
