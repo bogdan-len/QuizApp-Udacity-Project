@@ -1,0 +1,44 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Cities and Countries Quiz</string>
+    /*Question 1
+    <string name="question_one">Q1: The city of Prague is the capital of which Country?</string>
+    <string name="question_one_answer_one">Czech Republic</string>
+    <string name="question_one_answer_two">Austria</string>
+    /* Question 2
+    <string name="question_two">Q2: Which of the following cities are in England?</string>
+    <string name="question_two_answer_one">Dublin</string>
+    <string name="question_two_answer_two">London</string>
+    <string name="question_two_answer_three">Manchester</string>
+    /* Question 3
+    <string name="question_three">Q3: How many states are in the USA?</string>
+    /* Question 4
+    <string name="question_four">Q4: The capital of China is?</string>
+    <string name="question_four_answer_one">Beijing</string>
+    <string name="question_four_answer_two">Tokyo</string>
+    <string name="question_four_answer_three">Hong Kong</string>
+    /* Question 5
+    <string name="question_five">Q5: Which of the following cities is the capital of Romania?</string>
+    <string name="question_five_answer_one">Budapest</string>
+    <string name="question_five_answer_two">Bucharest</string>
+    /* Question 6
+    <string name="question_six">Q6: Which of the following countries are in South America?</string>
+    <string name="question_six_answer_one">Brazil</string>
+    <string name="question_six_answer_two">Mexic</string>
+    <string name="question_six_answer_three">Panama</string>
+    <string name="question_six_answer_four">Peru</string>
+    /* Question 7
+    <string name="question_seven">Q7: What\'s the name of Germany\'s capital?</string>
+    /* Question 8
+    <string name="question_eight">Q8: What country is represented in the following image?</string>
+    <string name="question_eight_answer_one">Germany</string>
+    <string name="question_eight_answer_two">France</string>
+    <string name="question_eight_answer_three">Romania</string>
+    <string name="question_eight_answer_four">Sweden</string>
+    /* Question 9
+    <string name="question_nine">Q9: Which one of the following cities are in Africa?</string>
+    <string name="question_nine_answer_one">Dakar</string>
+    <string name="question_nine_answer_two">Mombasa</string>
+    <string name="question_nine_answer_three">Dubai</string>
+    /* Submit Answers
+    <string name="submit_answers">Submit Answers</string>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Orase si tari</string>
+    <string name="question_one">I1: Capitala carui oras este Praga?</string>
+    <string name="question_one_answer_one">Cehia</string>
+    <string name="question_one_answer_two">Austria</string>
+    <string name="question_two">I2: Care dintr urmatoarele orase se afla in Anglia?</string>
+    <string name="question_two_answer_one">Dublin</string>
+    <string name="question_two_answer_two">Londra</string>
+    <string name="question_two_answer_three">Manchester</string>
+    <string name="question_three">I3: Cate state au Statele Unite ale Americii?</string>
+    <string name="question_four">I4: Capitala Chinei este?</string>
+    <string name="question_four_answer_one">Beijing</string>
+    <string name="question_four_answer_two">Tokio</string>
+    <string name="question_four_answer_three">Hong Kong</string>
+    <string name="question_five">I5: Care dintr urmatoarele orase este capitala Romaniei?</string>
+    <string name="question_five_answer_one">Budapesta</string>
+    <string name="question_five_answer_two">Bucuresti</string>
+    <string name="question_six">I6: Care dintre urmatoarele tari se afla in America de Sud?</string>
+    <string name="question_six_answer_one">Brazilia</string>
+    <string name="question_six_answer_two">Mexic</string>
+    <string name="question_six_answer_three">Panama</string>
+    <string name="question_six_answer_four">Peru</string>
+    <string name="question_seven">I7: Care este capitala Germaniei?</string>
+    <string name="question_eight">I8: Ce tare este reprezentata in imagine?</string>
+    <string name="question_eight_answer_one">Germania</string>
+    <string name="question_eight_answer_two">Franta</string>
+    <string name="question_eight_answer_three">Romania</string>
+    <string name="question_eight_answer_four">Suedia</string>
+    <string name="question_nine">I9: Care dintr urmatoarele orase se afla in Africa?</string>
+    <string name="question_nine_answer_one">Dakar</string>
+    <string name="question_nine_answer_two">Mombasa</string>
+    <string name="question_nine_answer_three">Dubai</string>
+    <string name="submit_answers">Verifica Raspunsurile</string>
+</resources>
